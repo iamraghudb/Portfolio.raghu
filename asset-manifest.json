@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio.raghu/static/css/main.b45ad744.css",
+    "main.js": "/portfolio.raghu/static/js/main.dda87867.js",
+    "static/media/profile.png": "/portfolio.raghu/static/media/profile.ce52619e2a1301eb9053.png",
+    "static/media/project2.jpg": "/portfolio.raghu/static/media/project2.5fae296d371cc56cd98a.jpg",
+    "static/media/project4.jpg": "/portfolio.raghu/static/media/project4.a7b7ed11daa072b234eb.jpg",
+    "static/media/project3.jpg": "/portfolio.raghu/static/media/project3.03535c34c110b7ea292b.jpg",
+    "static/media/logo.svg": "/portfolio.raghu/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
+    "static/media/tyepscript.png": "/portfolio.raghu/static/media/tyepscript.bb13ebd9561a6ee645c2.png",
+    "static/media/project5.jpg": "/portfolio.raghu/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/logo2.svg": "/portfolio.raghu/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
+    "static/media/project6.jpg": "/portfolio.raghu/static/media/project6.a22c939898d6c4613b65.jpg",
+    "static/media/reactNative.svg": "/portfolio.raghu/static/media/reactNative.c23f9b1891aff5145144dd2fde69a039.svg",
+    "index.html": "/portfolio.raghu/index.html",
+    "main.b45ad744.css.map": "/portfolio.raghu/static/css/main.b45ad744.css.map",
+    "main.dda87867.js.map": "/portfolio.raghu/static/js/main.dda87867.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45ad744.css",
+    "static/js/main.dda87867.js"
+  ]
+}
