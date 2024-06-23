@@ -81,7 +81,7 @@ export const workDetails = [
     Company: `PointCross: Life Science Software Solutions`,
     Location: "Bengaluru",
     Type: "Full Time",
-    Duration: "Feb 2021 - Augu 2021",
+    Duration: "Feb 2021 - Aug 2021",
   },
 ];
 
