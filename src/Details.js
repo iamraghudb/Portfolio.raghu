@@ -1,4 +1,3 @@
-// Enter all your detials in this file
 // Logo images
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
@@ -44,12 +43,12 @@ export const personalDetails = {
   tagline: "I build things for web",
   img: profile,
   about: `Experienced Frontend Developer proficient in HTML, CSS,
-JavaScript, React, Redux, React Native, Tailwind CSS, and
-Material-UI. With a background in diverse projects including IoT,
-healthcare mobile apps, and CRM platforms for education,I bring
-a proven track record in delivering high-quality, user-centric
-solutions. Passionate about leveraging technology to drive
-innovation and solve complex problems in various domains`,
+  JavaScript, React, Redux, React Native, Tailwind CSS, and
+  Material-UI. With a background in diverse projects including IoT,
+  healthcare mobile apps, and CRM platforms for education,I bring
+  a proven track record in delivering high-quality, user-centric
+  solutions. Passionate about leveraging technology to drive
+  innovation and solve complex problems in various domains`,
 };
 
 // Enter your Social Media URLs here
