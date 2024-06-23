@@ -24,12 +24,12 @@ import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 
 // Porject Images
-import projectImage1 from "./assets/projects/project1.jpg";
-import projectImage2 from "./assets/projects/project2.jpg";
-import projectImage3 from "./assets/projects/project3.jpg";
-import projectImage4 from "./assets/projects/project4.jpg";
-import projectImage5 from "./assets/projects/project5.jpg";
-import projectImage6 from "./assets/projects/project6.jpg";
+import projectImage1 from "./assets/projects/rf.png";
+import projectImage2 from "./assets/projects/bc.png";
+import projectImage3 from "./assets/projects/dg.png";
+// import projectImage4 from "./assets/projects/project4.jpg";
+// import projectImage5 from "./assets/projects/project5.jpg";
+// import projectImage6 from "./assets/projects/project6.jpg";
 
 // Logos
 export const logos = {
@@ -128,59 +128,56 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Robo Friends",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `This is sample project using React`,
+    techstack: "HTML/CSS, JavaScript, React",
+    previewLink: "https://iamraghudb.github.io/Robo-Friends/",
+    githubLink: " https://github.com/iamraghudb/Robo-Friends",
   },
   {
-    title: "Project title 2",
+    title: "Budget Calculator",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `This is sample project using Javascript`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    previewLink: "https://iamraghudb.github.io/Budget/",
+    githubLink: "https://github.com/iamraghudb/Budget",
   },
   {
-    title: "Project title 3",
+    title: "Dice Game",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `This is sample project using Javascript`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    previewLink: "https://iamraghudb.github.io/DiceGame/",
+    githubLink: "https://github.com/iamraghudb/DiceGame",
   },
-  {
-    title: "Project title 4",
-    image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 5",
-    image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 6",
-    image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
+  //   {
+  //     title: "Project title 4",
+  //     image: projectImage4,
+  //     description: `This is sample project description random things are here in description This is sample
+  // project lorem ipsum generator for dummy content`,
+  //     techstack: "HTML/CSS, JavaScript",
+  //     previewLink: "https://google.com",
+  //     githubLink: "https://github.com",
+  //   },
+  //   {
+  //     title: "Project title 5",
+  //     image: projectImage5,
+  //     description: `This is sample project description random things are here in description This is sample
+  // project lorem ipsum generator for dummy content`,
+  //     techstack: "HTML/CSS, JavaScript",
+  //     previewLink: "https://google.com",
+  //     githubLink: "https://github.com",
+  //   },
+  //   {
+  //     title: "Project title 6",
+  //     image: projectImage6,
+  //     description: `This is sample project description random things are here in description This is sample
+  // project lorem ipsum generator for dummy content`,
+  //     techstack: "HTML/CSS, JavaScript",
+  //     previewLink: "https://google.com",
+  //     githubLink: "https://github.com",
+  //   },
 ];
 
 // Enter your Contact Details here
